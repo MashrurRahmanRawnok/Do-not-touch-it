@@ -1,3 +1,6 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install python3
 sudo apt-get install gnome
 sudo update-alternatives --config x-session-manager
 wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo apt-key add -
